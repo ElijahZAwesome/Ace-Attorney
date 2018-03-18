@@ -1,0 +1,6 @@
+Apollo;Hey what's up;0;R
+Apollo;Nothing much man;0;L
+Apollo;Oh that's cool;1;R
+Player;Restart:line,0;Continue:line,4
+Apollo;This is a test;2;L
+Apollo;Test test test test;2;R

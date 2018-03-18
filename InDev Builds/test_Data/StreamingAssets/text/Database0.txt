@@ -1,0 +1,6 @@
+Apollo;Nice it worked;0;R
+Apollo;Yeah I got it to load custom text and all that;0;L
+Apollo;Oh that's cool;1;R
+Player;Restart:line,0;Continue:line,4
+Apollo;This is a test;2;L
+Apollo;Test test test test;2;R
